@@ -56,13 +56,13 @@ un-*freaking*-believable
 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Section 2
+<h3 id="section2"> Section 2 </h3>
 
 I strongly recommend against using any `<blink>` tags.
 
 I wish SmartyPants used named entities like `&mdash;`
 instead of decimal-encoded entites like `&#8212;`.
 
-### Section 3
+<h3 id="section3"> Section 3 </h3>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
